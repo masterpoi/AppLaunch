@@ -2,5 +2,6 @@
 <items>
   <item type="shortcut">
     <target>C:\Program Files (x86)\Internet Explorer\iexplore.exe</target>
+    <icon>Icons/ie8.png</icon>
   </item>
 </items>
